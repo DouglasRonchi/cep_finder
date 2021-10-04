@@ -1,0 +1,4 @@
+fastapi~=0.61.2
+uvicorn~=0.13.4
+requests~=2.23.0
+starlette~=0.13.6
