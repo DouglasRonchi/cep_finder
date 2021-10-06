@@ -1,3 +1,6 @@
+"""
+This is API router module for cep_finder
+"""
 from fastapi import APIRouter
 
 from app.endpoints import endpoint_cep_finder

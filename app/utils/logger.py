@@ -1,3 +1,6 @@
+"""
+This is a logger module for cep_finder api
+"""
 import logging
 import os
 

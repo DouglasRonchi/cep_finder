@@ -12,6 +12,12 @@ class TestMain(unittest.TestCase):
                   cep_finder_router_mock,
                   fastapi_mock,
                   logger_mock):
+        """
+        Args:
+            cep_finder_router_mock:
+            fastapi_mock:
+            logger_mock:
+        """
         self.assertTrue(main.app)
 
 

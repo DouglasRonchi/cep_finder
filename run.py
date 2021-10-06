@@ -1,3 +1,6 @@
+"""
+This is run module for cep_finder api
+"""
 import uvicorn
 from app.main import app
 
